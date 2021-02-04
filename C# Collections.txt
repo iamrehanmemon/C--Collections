@@ -1,1 +1,5 @@
 Introducing Collections and Arrays
+
+Collections -> Collections are types that are designed to encapsulate a set of related objects together so that you can treat them as one single collection object on which you can then perform operations such as searching
+
+Arrays and its properties, Enumerating and aceesing elements of Array.
