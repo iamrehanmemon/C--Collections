@@ -1,5 +1,14 @@
-Introducing Collections and Arrays
+C# Collections
+
+1) Introducing Collections and Arrays
 
 Collections -> Collections are types that are designed to encapsulate a set of related objects together so that you can treat them as one single collection object on which you can then perform operations such as searching
 
-Arrays and its properties, Enumerating and aceesing elements of Array.
+Overview of Collections, Arrays and its properties, Enumerating and aceesing elements of Array. Accessing element of an array , enumerate using the foreach array, the 0-based indexing, the seamless integration with a debugger
+
+
+2) Importing from a Data Source into an Array
+
+Importing data from an external source (CSV) into the array, initializing array with variable size, Array is full of Null/default values, Splitting the content from a single line into different arrays & Formatting large numbers
+
+3) Resizing Collections with Lists
