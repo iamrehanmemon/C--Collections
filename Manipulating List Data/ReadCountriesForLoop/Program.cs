@@ -29,7 +29,7 @@ namespace Pluralsight.BegCShCollections.ReadCountriesForLoop
 
 
             // comment this out to see all countries, without removing the ones with commas
-            /*reader.RemoveCommaCountries(countries);*/
+            reader.RemoveCommaCountries(countries);
 
             Console.Write("Enter no. of countries to display> ");
             bool inputIsInt = int.TryParse(Console.ReadLine(), out int userInput);

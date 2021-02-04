@@ -31,5 +31,8 @@ Dictionaries Syntax Adding items to Dictionary country.Add(key, country). Has Re
 
 
 5)Manipulating List Data
-Differnce between for loop vs ForEach -> IS ReadOnly.for loop -> Finer Control for list & Array as number Range is involved. Iterating only some Values
-Batching an iteration based on user input, Enumerating Backwards using Control condition
+Differnce between for loop vs ForEach -> IS ReadOnly.for loop -> Finer Control for list & Array as number Range is involved. Iterating only some Values.Batching an iteration based on user input, Enumerating Backwards using Control condition.
+
+6)Selecting Items Using LINQ 
+
+LINQ - allows to query -> Extract the data you want -> ReadOnly/Doesnt modify -> Doesnt support Batching.Link Query Syntax -> such as SQL.Limiting results in foreach using .Take(10).Sort-> .OrderBy(x=>x.Name) requires delegate/lamda Function.Chaining Method in LINQ requires some logical order. Working Of Link passes Data after processing it.Linq cant remove but filter the items in foreach loop.
