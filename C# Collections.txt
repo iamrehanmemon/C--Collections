@@ -12,3 +12,10 @@ Overview of Collections, Arrays and its properties, Enumerating and aceesing ele
 Importing data from an external source (CSV) into the array, initializing array with variable size, Array is full of Null/default values, Splitting the content from a single line into different arrays & Formatting large numbers
 
 3) Resizing Collections with Lists
+
+List can be used when there is uncertainity about the size of data as it can be resized.
+List<string> daysOfWeek = new List<string>
+Splitting the content from a single line into different array based on the input from csv & adding to the list, Counting element with List is Count whereas in array is Length
+Adding into list is by appending item into list also insertion can be done in list such as .Insert .
+Searching into List via various method such FindIndex 
+Removing from a List with RemoveAt(index)
