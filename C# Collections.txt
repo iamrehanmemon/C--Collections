@@ -20,8 +20,16 @@ List can be used when there is uncertainity about the size of data as it can be 
 4)Storing Keyed Data with Dictionaries
 
 Searching requires an index in List & Arry.
-Syntax -> Dictionary<string, Country> countries = new Dictionary<string, Country>();
+Dictionaries Syntax -> Dictionary<string, Country> countries = new Dictionary<string, Country>();
 Adding items to Dictionary country.Add(key, country). Has Remove & Replace method.Doesnt have Insert Method.
 Looking Up Item -> countries[key] but its index in array,list
 Enumerating Dictionary using key(.key) value(.Value) pairs also Keys should be unique
 .TryGetValue for looking up if it exist or not in dictionary
+
+
+Dictionaries Syntax Adding items to Dictionary country.Add(key, country). Has Remove & Replace method.Doesnt have Insert Method.Looking Up Item -> countries[key] but its index in array,list.Enumerating Dictionary using key(.key) value(.Value) pairs also Keys should be unique.  .TryGetValue for looking up if it exist or not in dictionary
+
+
+5)Manipulating List Data
+Differnce between for loop vs ForEach -> IS ReadOnly.for loop -> Finer Control for list & Array as number Range is involved. Iterating only some Values
+Batching an iteration based on user input, Enumerating Backwards using Control condition
