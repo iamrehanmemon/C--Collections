@@ -39,3 +39,8 @@ LINQ - allows to query -> Extract the data you want -> ReadOnly/Doesnt modify ->
 
 7) Creating Collections of Collections
 Partioning data from csv into region with the help of dictionary & list. Enumerating it based on key values. Differnce between Jagged & Multidimensional Array.Array of Array is called as Jagged Array.The Nought & Crosses Game Intiating and Logic building.Multi-dimensional Arry is Single with two indexes.
+
+
+8) Taking Collections Further
+Standard Generic Collection -> List,Dictionary,linked list. Immutable Collection->ImmutableArray,ImmutableList,ImmutableDictionary. Overview of Linq Collection, Interfaces.
+
