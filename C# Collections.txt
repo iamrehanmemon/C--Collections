@@ -36,3 +36,6 @@ Differnce between for loop vs ForEach -> IS ReadOnly.for loop -> Finer Control f
 6)Selecting Items Using LINQ 
 
 LINQ - allows to query -> Extract the data you want -> ReadOnly/Doesnt modify -> Doesnt support Batching.Link Query Syntax -> such as SQL.Limiting results in foreach using .Take(10).Sort-> .OrderBy(x=>x.Name) requires delegate/lamda Function.Chaining Method in LINQ requires some logical order. Working Of Link passes Data after processing it.Linq cant remove but filter the items in foreach loop.
+
+7) Creating Collections of Collections
+Partioning data from csv into region with the help of dictionary & list. Enumerating it based on key values. Differnce between Jagged & Multidimensional Array.Array of Array is called as Jagged Array.The Nought & Crosses Game Intiating and Logic building.Multi-dimensional Arry is Single with two indexes.
